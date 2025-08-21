@@ -19,10 +19,10 @@ LNA 120GHz
 
 The aim of this project is the design of 122 GHz LNA (Low Noise Amplifier). The design of transmission lines has enabled the matching allowing the performance targets shown in the table above to be achieved. 
 
-Schematic of the designed MULTIPLIER:
+chematic of the designed LNA:
 
-.. image:: images/MULTI_X5_60GHz.png
-   :alt: Schematic of the 60 GHz MULTIPLIER
+.. image:: images/LNA_manael.png
+   :alt: Schematic of the 122 GHz LNA
    :width: 100%
    :align: center
 
@@ -58,14 +58,14 @@ MULTIPLIER 60GHz
 | VDD                    |  1.65 V          |
 +------------------------+------------------+
 
-chematic of the designed LNA:
+* from the HB spectrum marker at 60 GHz.
 
-.. image:: images/.png
-   :alt: Schematic of the 122 GHz LNA
+chematic of the designed MULTIPLIER:
+
+.. image:: images/MULTI_X5_60GHz.png
+   :alt: Schematic of the 60 GHz MULTIPLIER
    :width: 100%
    :align: center
-
-* from the HB spectrum marker at 60 GHz.
 
 Notes
 
