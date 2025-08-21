@@ -6,8 +6,8 @@
     "DesignName": "FMD_QNC_LNA_4_120GHZ",
     "FinalGdsName": "FMD_QNC_LNA_4_120GHZ.gds",
     "TopCellName": "FMD_QNC_LNA_4_120GHZ",
-    "Width": "0.502mm",
-    "Height": "0.602mm",
+    "Width": "1.963mm",
+    "Height": "0.950mm",
     "NumberOfSamples": "10"
   },
   "FinalWaferThickness": "200um"
