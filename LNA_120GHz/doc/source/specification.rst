@@ -1,4 +1,6 @@
-Specifications of the design
+Specifications of the designs
+
+LNA 120GHz 
 ================
 
 +----------------+------------------+
@@ -31,3 +33,39 @@ Bias voltage
 +===========+===========+=======+
 |  2.2 V    |  0.93 V   | 2.5 V | 
 +-----------+-----------+-------+
+
+
+MULTIPLIER 60GHz 
+================
+
++------------------------+------------------+
+| Specifications | Values (60 GHz) |
++========================+==================+
+| Topology | Push-push ×5 |
++------------------------+------------------+
+| Input frequency | 12 GHz |
++------------------------+------------------+
+| Output frequency | 60 GHz |
++------------------------+------------------+
+| Output @ 60 GHz | ≈ −16.6 dBm (*) |
++------------------------+------------------+
+| Input return loss S11 | ~12–15 dB @12 GHz (estimeted) |
++------------------------+------------------+
+| Output return loss S22 | ~10–12 dB @60 GHz (estimated) |
++------------------------+------------------+
+| DC consumption | 10 mW |
++------------------------+------------------+
+| VDD | 1.65 V |
++------------------------+------------------+
+
+* from the HB spectrum marker at 60 GHz.
+
+Notes
+
+The device multiplies a 12 GHz input by five to generate a 60 GHz output.
+
+Input and output matching values are estimated from the S-parameter plots.
+The aim of this project is the design of a 60 GHz frequency multiplier using 
+a push-push topology to generate the 5th harmonic from a 12 GHz drive. 
+Transmission-line matching and harmonic selection networks are used 
+to favor the 60 GHz component while suppressing unwanted harmonics.
