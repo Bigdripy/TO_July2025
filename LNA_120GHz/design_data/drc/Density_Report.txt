@@ -1,5 +1,6 @@
+-------------------LNA_120GHz--------------------
+
 Layer areas and percetages
-------------------------------------------------
 
 Total Area = 902500.0um^2
 
@@ -29,3 +30,37 @@ TopMetal1 %    = 35.256% Min = 25 Max = 70
 
 TopMetal2 Area = 402656.843um^2
 TopMetal2 %    = 44.616% Min = 25 Max = 70
+
+
+-------------------MULTI_X5_60GHz-----------------------------
+
+Layer areas and percetages
+
+Total Area = 902500.0um^2
+
+Activ Area = 362706.341um^2
+Activ %    = 40.189% Min = 35 Max = 55
+
+GatPoly Area = 210002.42um^2
+GatPoly %    = 23.269% Min = 15
+
+Metal1 Area = 358761.33400000003um^2
+Metal1 %    = 39.752% Min = 35 Max = 60
+
+Metal2 Area = 308307.962um^2
+Metal2 %    = 34.162% Min = 35 Max = 60
+
+Metal3 Area = 324561.654um^2
+Metal3 %    = 35.963% Min = 35 Max = 60
+
+Metal4 Area = 324494.564um^2
+Metal4 %    = 35.955% Min = 35 Max = 60
+
+Metal5 Area = 310813.979um^2
+Metal5 %    = 34.439% Min = 35 Max = 60
+
+TopMetal1 Area = 276379.512um^2
+TopMetal1 %    = 30.624% Min = 25 Max = 70
+
+TopMetal2 Area = 388084.223um^2
+TopMetal2 %    = 43.001% Min = 25 Max = 70

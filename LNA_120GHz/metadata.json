@@ -1,0 +1,14 @@
+{
+  "ProjectName": "FMD_QNC_LNA_4_120GHZ_MULT_X5_60GHZ",
+  "Shuttle": "MPW 0.13µm Jul 2025(T593)",
+  "Technology": "SG13G2",
+  "Design": {
+    "DesignName": "FMD_QNC_LNA_4_120GHZ_MULT_X5_60GHZ",
+    "FinalGdsName": "FMD_QNC_LNA_4_120GHZ_MULT_X5_60GHZ.gds",
+    "TopCellName": "FMD_QNC_LNA_4_120GHZ_MULT_X5_60GHZ",
+    "Width": "0.502mm",
+    "Height": "0.602mm",
+    "NumberOfSamples": "10"
+  },
+  "FinalWaferThickness": "200um"
+}
