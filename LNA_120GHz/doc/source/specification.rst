@@ -19,10 +19,10 @@ LNA 120GHz
 
 The aim of this project is the design of 122 GHz LNA (Low Noise Amplifier). The design of transmission lines has enabled the matching allowing the performance targets shown in the table above to be achieved. 
 
-Schematic of the designed LNA:
+Schematic of the designed MULTIPLIER:
 
-.. image:: images/LNA_manael.png
-   :alt: Schematic of the 122 GHz LNA
+.. image:: images/MULTI_X5_60GHz.png
+   :alt: Schematic of the 60 GHz MULTIPLIER
    :width: 100%
    :align: center
 
@@ -39,24 +39,31 @@ MULTIPLIER 60GHz
 ================
 
 +------------------------+------------------+
-| Specifications | Values (60 GHz) |
+| Specifications         |  Values (60 GHz) |
 +========================+==================+
-| Topology | Push-push ×5 |
+| Topology               |  Push-push ×5    |
 +------------------------+------------------+
-| Input frequency | 12 GHz |
+| Input frequency        |  12 GHz          |
 +------------------------+------------------+
-| Output frequency | 60 GHz |
+| Output frequency       |  60 GHz          |
 +------------------------+------------------+
-| Output @ 60 GHz | ≈ −16.6 dBm (*) |
+| Output @ 60 GHz        |  ≈ −16.6 dBm (*) |
 +------------------------+------------------+
-| Input return loss S11 | ~12–15 dB @12 GHz (estimeted) |
+| Input return loss S11  | ~12–15 dB @12 GHz|
 +------------------------+------------------+
-| Output return loss S22 | ~10–12 dB @60 GHz (estimated) |
+| Output return loss S22 | ~10–12 dB @60 GHz|
 +------------------------+------------------+
-| DC consumption | 10 mW |
+| DC consumption         |  10 mW           |
 +------------------------+------------------+
-| VDD | 1.65 V |
+| VDD                    |  1.65 V          |
 +------------------------+------------------+
+
+chematic of the designed LNA:
+
+.. image:: images/.png
+   :alt: Schematic of the 122 GHz LNA
+   :width: 100%
+   :align: center
 
 * from the HB spectrum marker at 60 GHz.
 
